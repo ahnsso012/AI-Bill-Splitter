@@ -169,7 +169,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col font-sans">
         <header className="bg-white shadow-md p-4 flex justify-between items-center sticky top-0 z-10">
-            <h1 className="text-2xl font-bold text-slate-700">AI Bill Splitter</h1>
+            <h1 className="text-2xl font-bold text-slate-700">AI 빌 스플릿터</h1>
              <button
                 onClick={handleReset}
                 className="flex items-center gap-2 px-4 py-2 text-sm font-semibold text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors"
